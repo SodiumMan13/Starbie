@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 11h | 4 |
+| Week 1 | Tier 1 | 10h | 4 |
 
 ## Contents
 
@@ -63,7 +63,7 @@ I tried to find some information anywhere, but it looks like there was nothing I
 
 ### 2026-10-10 – Friday October 9:
 
-**3h**
+**2h**
 
 Friday October 9:
 
