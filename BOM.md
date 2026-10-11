@@ -19,7 +19,7 @@
 | [2 Pcs YMDK Blank DSA 1u Keycap Homing Keys PBT For MX Switches](https://www.aliexpress.us/item/3256808372278605.html) | caps for the MX switches | 1 | $0.99 | $0.99 | [YMDK](https://www.aliexpress.us/item/3256808372278605.html) |
 | [MPU-6050](https://www.aliexpress.us/item/3256812142444479.html) | accelerometer and gyroscope | 1 | $0.99 | $0.99 | [DIY Electronics Module 999 Store](https://www.aliexpress.us/item/3256812142444479.html) |
 | **Parts subtotal** | — | — | — | **$17.94** | — |
-| **Tax & shipping** | — | — | — | **$8.47** | — |
-| **Total** | — | — | — | **$26.41** | — |
+| **Tax & shipping** | — | — | — | **$0.00** | — |
+| **Total** | — | — | — | **$17.94** | — |
 
-$3.59 left of the tier's funding.
+$12.06 left of the tier's funding.
