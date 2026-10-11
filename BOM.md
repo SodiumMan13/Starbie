@@ -14,13 +14,12 @@
 | --- | --- | --- | --- | --- | --- |
 | [XIAO ESP32 C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) | wireless connection and sensor integration | 1 | $4.99 | $4.99 | [seeed studio](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) |
 | [0.96 inch OLED display module](https://www.amazon.com/dp/B0GBWXTR1Z?th=1) | to display the digital pet | 1 | $4.99 | $4.99 | [DORHEA](https://www.amazon.com/dp/B0GBWXTR1Z?th=1) |
-| [MPU-6050](https://www.amazon.com/MPU6050-Digital-Processor-Module-16Bit/dp/B0HFSBGKW9/?th=1) | accelerometer and gyroscope | 1 | $4.69 | $4.69 | [LORYEANM](https://www.amazon.com/MPU6050-Digital-Processor-Module-16Bit/dp/B0HFSBGKW9/?th=1) |
 | [DHT11](https://www.amazon.com/DHT-11-Digital-Temperature-Humidity-Arduino/dp/B0CRRXJ83F/) | temperature and humidity sensor | 1 | $3.78 | $3.78 | [AYASOSO](https://www.amazon.com/DHT-11-Digital-Temperature-Humidity-Arduino/dp/B0CRRXJ83F/) |
 | [10 pack MX Switches](https://www.amazon.com/Crystal-Blue-Mechanical-Replaceable-Dustproof/dp/B0G1FNXFTC/?th=1) | the switches | 1 | $4.99 | $4.99 | [Zjmehty](https://www.amazon.com/Crystal-Blue-Mechanical-Replaceable-Dustproof/dp/B0G1FNXFTC/?th=1) |
 | [2 Pcs YMDK Blank DSA 1u Keycap Homing Keys PBT For MX Switches](https://www.aliexpress.us/item/3256808372278605.html) | caps for the MX switches | 1 | $0.99 | $0.99 | [YMDK](https://www.aliexpress.us/item/3256808372278605.html) |
 | [MPU-6050](https://www.aliexpress.us/item/3256812949178665.html) | accelerometer and gyroscope | 1 | $0.99 | $0.99 | [Code Spark Store](https://www.aliexpress.us/item/3256812949178665.html) |
-| **Parts subtotal** | — | — | — | **$25.42** | — |
+| **Parts subtotal** | — | — | — | **$20.73** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$25.42** | — |
+| **Total** | — | — | — | **$20.73** | — |
 
-$4.58 left of the tier's funding.
+$9.27 left of the tier's funding.
