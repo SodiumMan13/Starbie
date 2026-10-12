@@ -21,7 +21,7 @@
 | [MRS16000C1002FCT00](https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MRS16000C1002FCT00/5063734) | 10kOhm resistor | 1 | $0.22 | $0.22 | [Vishay Beyschlag/Draloric/BC Components](https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/MRS16000C1002FCT00/5063734) |
 | [PCB](https://jlcpcb.com) | the PCB itself | 1 | $4.00 | $4.00 | [JLCPCB](https://jlcpcb.com) |
 | **Parts subtotal** | — | — | — | **$22.46** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$22.46** | — |
+| **Tax & shipping** | — | — | — | **$12.12** | — |
+| **Total** | — | — | — | **$34.58** | — |
 
-$7.54 left of the tier's funding.
+**$4.58 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
