@@ -1,4 +1,6 @@
-In Arduino IDE, open File • Preferences, and add this to Additional Boards Manager URLs:
+Download the Starbie.ino file.
+
+Install Arduino IDE, open File • Preferences, and add this to Additional Boards Manager URLs:
 
 ```https://espressif.github.io/arduino-esp32/package_esp32_index.json```
 
@@ -13,3 +15,5 @@ Adafruit SSD1306
 Adafruit MPU6050
 DHT sensor library
 If Arduino asks to install dependencies, choose Install All.
+
+Then open Starbie.ino in the Arduino IDE.
